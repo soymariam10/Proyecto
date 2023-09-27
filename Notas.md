@@ -10,7 +10,6 @@
  -  Sanofi 
  -  Roche
 
-
  <h2>Nombres de Proveedores</h2>
  - Angelica Morales
  - Alberto  Cabrejo
@@ -24,7 +23,6 @@
 
 
 foto de proveedor/ nombre de proveedor / marca de medicamento/ 
-
 
 _________________________________________________
 | Nombres Proveedores   | Marcas de Medicamentos| 

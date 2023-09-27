@@ -1,4 +1,4 @@
-# FrontEnd-Farmacia
+# FrontEnd-Farmacia:
 # Realizar los siguientes EndPoints de las siguientes consultas:
 
 1. Obtener todos los medicamentos con menos de 50 unidades en stock.
@@ -39,3 +39,5 @@
 36. Total de medicamentos vendidos en el primer trimestre de 2023.
 37. Empleados que no realizaron ventas en abril de 2023.
 38. Medicamentos con un precio mayor a 50 y un stock menor a 100.
+
+
